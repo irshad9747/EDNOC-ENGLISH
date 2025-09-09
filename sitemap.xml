@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+   <url>
+      <loc>https://ednocenglish.com/</loc>
+      <lastmod>2025-09-09</lastmod>
+      <priority>1.0</priority>
+   </url>
+   <url>
+      <loc>https://ednocenglish.com/#about</loc>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>https://ednocenglish.com/#courses</loc>
+      <priority>0.8</priority>
+   </url>
+    <url>
+        <loc>https://ednocenglish.com/#method</loc>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://ednocenglish.com/#why</loc>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://ednocenglish.com/#contact</loc>
+        <priority>0.8</priority>
+    </url>
+</urlset>
